@@ -1,5 +1,5 @@
-👋 Hi, I'm Rishikesh Pawar
-🚀 Computer Engineering Student | Cloud & Networking Enthusiast | Automation Learner
+ Hi, I'm Rishikesh Pawar
+ Computer Engineering Student | Cloud & Networking Enthusiast | Automation Learner
 
 Welcome to my GitHub!
 I enjoy building projects related to Computer Networks, Linux, Cloud Automation, and Python scripting.
@@ -26,7 +26,7 @@ Packet Tracer • GNS3
 
 MySQL
 
-📚 Interests
+ Interests
 
 Cloud computing & automation
 
