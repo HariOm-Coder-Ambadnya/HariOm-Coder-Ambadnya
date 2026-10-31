@@ -1,101 +1,98 @@
-<br clear="both">
+# 👋 Hey, I'm Rishikesh Pawar
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWx1b2Q1MjRwbzQ1ejhiN2Z1Zjd3M2ZzNHFsMWhrN2d5c3dldnNiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yALcFbrKshfoY/giphy.gif"  />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Rishikesh+Pawar;Java+Full+Stack+Developer;Backend+%26+AI+Enthusiast;Building+Things+That+Matter" alt="Typing SVG" />
+</p>
 
-###
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Explorer-blue?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+---
 
-###
+## 💫 About Me
 
-<br clear="both">
+I'm **Rishikesh Pawar**, a Computer Engineering student and Software Developer from India, passionate about building scalable backend systems and AI-powered applications.
 
-<p data-importer="text" align="left">My name is Rishikesh Pawar, and I'm a Software Engineer from India building scalable backend systems and AI-powered applications.</p>
+- 💻 Focused on Java, Spring Boot, REST APIs and Full Stack Development.
+- 🤖 Exploring AI agents, LLMs, RAG and intelligent applications.
+- 🔧 Experienced with React, MySQL, PostgreSQL, Docker and Git.
+- 🌱 Interested in backend engineering, system design and open source.
+- 🚀 Always learning, building and improving.
 
-###
+---
 
-<h2 data-importer="text" align="left">About me</h2>
+## 🛠️ Tech Stack
 
-###
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
 
-<p data-importer="text" align="left">💻 Software Engineer passionate about building scalable backend systems and AI-powered applications.<br><br>☕ I primarily work with Java, Spring Boot, React, PostgreSQL, Docker, and Kubernetes.<br><br>🤖 Currently exploring LLMs, RAG, vector databases, distributed systems, and cloud-native architectures.<br><br>🌱 Always learning, building real-world projects, and contributing to open source.</p>
+### Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express" />
+</p>
 
-###
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git,github,linux,aws,vscode,idea" />
+</p>
 
-<h2 data-importer="text" align="left">I code with</h2>
+---
 
-###
+## 🚀 Featured Projects
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
+| Project | Description | Technologies |
+|---|---|---|
+| Inventory Management | Inventory and order management system | Java, Spring Boot, React, MySQL |
+| CareerPilot | AI-powered career assistance CLI | Python, LangChain, LangGraph |
+| AI Content Generator | AI-powered content generation application | React, AI APIs |
+| SwapSkills | Skill-sharing platform | Spring Boot, React, PostgreSQL |
 
-###
+---
 
-<h2 data-importer="text" align="left">Connect</h2>
+## 📊 GitHub Statistics
 
-###
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HariOm-Coder-Ambadnya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HariOm-Coder-Ambadnya&theme=tokyonight&hide_border=true" />
+</p>
 
-<br clear="both">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariOm-Coder-Ambadnya&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<div data-importer="socials" align="left">
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HariOm-Coder-Ambadnya/HariOm-Coder-Ambadnya/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
   <a href="https://www.linkedin.com/in/rishikesh-pawar-sde/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="70" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/HariOm-Coder-Ambadnya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://x.com/Rishi_Pawar_21" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=flat" height="70" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="70" alt="discord logo"  />
-</div>
+</p>
 
-###
+---
+
+<p align="center">
+  <b>Building • Learning • Innovating</b>
+  <br/>
+  <i>"Great things are built one commit at a time."</i>
+</p>
