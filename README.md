@@ -1,49 +1,57 @@
-# 👋 Hey, I'm Rishikesh Pawar
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Rishikesh+Pawar;Java+Full+Stack+Developer;Backend+%26+AI+Enthusiast;Building+Things+That+Matter" alt="Typing SVG" />
-</p>
+  <pre>
+    ____  _      __    _ __             __
+   / __ \(_)____/ /_  (_) /_____  _____/ /_
+  / /_/ / / ___/ __ \/ / //_/ _ \/ ___/ __ \
+ / _, _/ (__  ) / / / / ,< /  __(__  ) / / /
+/_/ |_/_/____/_/ /_/_/_/|_|\___/____/_/ /_/
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Explorer-blue?style=for-the-badge&logo=openai&logoColor=white" />
+    ____
+   / __ \____ __      ______ ______
+  / /_/ / __ `/ | /| / / __ `/ ___/
+ / ____/ /_/ /| |/ |/ / /_/ / /
+/_/    \__,_/ |__/|__/\__,_/_/
+  </pre>
+  <h3><i>Java Full Stack Developer | Backend Engineer | AI Enthusiast</i></h3>
 </p>
 
 ---
 
-## 💫 About Me
+## Hey, What's up?
 
 I'm **Rishikesh Pawar**, a Computer Engineering student and Software Developer from India, passionate about building scalable backend systems and AI-powered applications.
 
-- 💻 Focused on Java, Spring Boot, REST APIs and Full Stack Development.
-- 🤖 Exploring AI agents, LLMs, RAG and intelligent applications.
-- 🔧 Experienced with React, MySQL, PostgreSQL, Docker and Git.
-- 🌱 Interested in backend engineering, system design and open source.
-- 🚀 Always learning, building and improving.
+- Focused on Java, Spring Boot, REST APIs and Full Stack Development.
+- Exploring AI agents, LLMs, RAG and intelligent applications.
+- Experienced with React, MySQL, PostgreSQL, Docker and Git.
+- Interested in backend engineering, system design and open source.
+- Always learning, building and improving.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
 </p>
 
 ### Backend & Frameworks
+
 <p>
   <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express" />
 </p>
 
 ### Databases & Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git,github,linux,aws,vscode,idea" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Technologies |
 |---|---|---|
@@ -54,7 +62,7 @@ I'm **Rishikesh Pawar**, a Computer Engineering student and Software Developer f
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=HariOm-Coder-Ambadnya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -67,7 +75,7 @@ I'm **Rishikesh Pawar**, a Computer Engineering student and Software Developer f
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HariOm-Coder-Ambadnya/HariOm-Coder-Ambadnya/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
@@ -75,7 +83,7 @@ I'm **Rishikesh Pawar**, a Computer Engineering student and Software Developer f
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rishikesh-pawar-sde/" target="_blank">
@@ -92,7 +100,7 @@ I'm **Rishikesh Pawar**, a Computer Engineering student and Software Developer f
 ---
 
 <p align="center">
-  <b>Building • Learning • Innovating</b>
-  <br/>
+  <b>BUILDING. LEARNING. INNOVATING.</b>
+  <br/><br/>
   <i>"Great things are built one commit at a time."</i>
 </p>
