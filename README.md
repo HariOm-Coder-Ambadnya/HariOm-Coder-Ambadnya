@@ -76,15 +76,6 @@ I'm **Rishikesh Pawar**, a Computer Engineering student and Software Developer f
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariOm-Coder-Ambadnya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HariOm-Coder-Ambadnya/HariOm-Coder-Ambadnya/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
 
 ## Connect With Me
 
