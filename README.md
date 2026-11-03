@@ -75,30 +75,14 @@ I'm **Rishikesh Pawar**, a Computer Engineering student and Software Developer f
 
 ---
 
-## 📊 GitHub Statistics
+### 🐍 Contribution Snake
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HariOm-Coder-Ambadnya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=HariOm-Coder-Ambadnya&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariOm-Coder-Ambadnya&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HariOm-Coder-Ambadnya&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HariOm-Coder-Ambadnya&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HariOm-Coder-Ambadnya/HariOm-Coder-Ambadnya/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/HariOm-Coder-Ambadnya/HariOm-Coder-Ambadnya/output/github-snake.svg" />
+</picture>
 
 </div>
 
